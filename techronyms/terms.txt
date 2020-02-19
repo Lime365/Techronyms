@@ -1,0 +1,364 @@
+Access Control List
+Analog-to-Digital Converter
+Automatic Document Feeder
+Asymmetric Digital Subscriber Line
+Accelerated Graphics Port
+Audio Interchange File Format
+Advanced Interactive Executive
+Arithmetic Logic Unit
+Application Not Responding
+American National Standards Institute
+Application Program Interface
+Accelerated Processing Unit
+Address Resolution Protocol
+American Standard Code for Information Interchange
+App Store Optimization
+Active Server Page or Application Service Provider
+Advanced Technology Attachment
+Asynchronous Transfer Mode
+Advanced Technology eXtended
+Acceptable Use Policy
+Audio/Video Receiver
+Bourne-Again Shell
+Beginner's All-purpose Symbolic Instruction Code
+Blind Carbon Copy
+Basic Input/Output System
+Bluetooth Low Energy
+Binary Large Object
+Bitmap
+Blue Screen of Death
+Computer-Aided Design
+Campus Area Network
+Carbon Copy
+Charged Coupled Device
+Compact Disc
+Compact Disc Recordable
+Compact Disc Read-Only Memory
+Compact Disc Re-Writable
+Compact Disc File System
+Code Division Multiple Access
+Content Delivery Network
+Common Gateway Interface
+Complex Instruction Set Computing
+Character Large Object
+Complementary Metal Oxide Semiconductor
+Content Management System
+Cyan Magenta Yellow Black
+Cost Per Action
+Cost Per Click
+Cost Per Lead
+Cost Per 1,000 Impressions
+Classroom Performance System
+Central Processing Unit
+Customer Relationship Management
+Cathode Ray Tube
+Cascading Style Sheet
+Composite Theoretical Performance
+Click-Through Rate
+Compute Unified Device Architecture
+Digital-to-Analog Converter
+Digital Audio Workstation
+Database Management System
+Digital Camera IMages
+Data Definition Language
+Double Data Rate
+Double Data Rate 2
+Double Data Rate Type 3
+Double Data Rate 4
+Distributed File System
+Dynamic Host Configuration Protocol
+Dual In-Line Memory Module
+DomainKeys Identified Mail
+Downloadable Content
+Dynamic Link Library
+Direct Memory Access
+Domain Name System
+Disk Operating System
+Dots Per Inch
+Dynamic Random Access Memory
+Digital Rights Management
+Digital Subscriber Line
+Digital Subscriber Line Access Multiplexer
+Document Type Definition
+Device Under Test
+Digital Video
+Digital Versatile Disc
+Digital Versatile Disc Recordable
+Digital Versatile Disk Rewritable
+Digital Versatile Disc Recordable
+Digital Versatile Disc Random Access Memory
+Digital Versatile Disk Rewritable
+Digital Video Interface
+Digital Video Recorder
+Error Correction Code
+Electronic Data Interchange
+External Graphics Processing Unit
+Enhanced Integrated Drive Electronics
+Encapsulated PostScript
+External Serial Advanced Technology Attachment
+Enterprise Unified Process
+Exchangeable Image File Format
+Frequently Asked Questions
+Fiber Distributed Data Interface
+First In, First Out
+First In, Last Out
+Fiber Optic Service
+Floating Point Operations Per Second
+Field-Programmable Gate Array
+Frames Per Second
+Floating Point Unit
+Fully Qualified Domain Name
+Frontside Bus
+File Transfer Protocol
+Gigabits Per Second
+Graphics Interchange Format
+Garbage In, Garbage Out
+Geographic Information Systems
+General-Purpose computation on Graphics Processing Units
+General Purpose Input/Output
+Global Positioning System
+Graphics Processing Unit
+Graphical User Interface
+Globally Unique Identifier
+Hard Disk Drive
+High-Definition Multimedia Interface
+High Dynamic Range
+High Definition Televsion
+High-Definition Video
+Hierarchical File System
+Heat Sink and Fan
+Hyper-Text Markup Language
+Hypertext Transfer Protocol
+HyperText Transport Protocol Secure
+Input/Output
+Internet Corporation For Assigned Names and Numbers
+Internet Connection Firewall
+Internet Control Message Protocol
+Internet Connection Sharing
+Information and Communication Technologies
+Integrated Device Electronics or Integrated Development Environment
+Intrusion Detection System
+Institute of Electrical and Electronics Engineers
+Integrated Graphics Processor
+Internet Information Services
+Instant Message
+Internet Message Access Protocol
+International Mobile Equipment Identity
+Internet Network Information Center
+Input/Output Operations Per Second
+Internet Protocol
+Intrusion Prevention System
+Internetwork Packet Exchange
+Internet Relay Chat
+Interrupt Request
+Industry Standard Architecture
+Internet Small Computer Systems Interface
+Integrated Services Digital Network
+International Organization for Standardization
+Internet Service Provider
+Interrupt Service Routine
+Information Technology
+Information Technology Infrastructure Library
+Interactive Voice Response
+Java Database Connectivity
+Journaled File System
+Joint Photographic Experts Group
+Java Runtime Environment
+JavaServer Faces
+JavaScript Object Notation
+Java Server Page
+Java Virtual Machine
+Kilobits Per Second
+K Desktop Environment
+Keyboard, Video, and Mouse Switch
+Linux, Apache, MySQL, and PHP
+Local Area Network
+Liquid Crystal Display
+Lightweight Directory Access Protocol
+Light-Emitting Diode
+Long Filename
+Last In, First Out
+Lines Per Inch
+Long Term Evolution
+Logical Unit Number
+Media Access Control Address
+Mac OS X, Apache, MySQL, and PHP
+Mobile Ad Hoc Network
+Megabits Per Second
+Master Boot Record
+Micro Channel Architecture
+Medium Dependent Interface
+Musical Instrument Digital Interface
+Million Instructions Per Second
+Management Information System
+Multimedia Messaging Service
+MPEG-1 Audio Layer-3
+Moving Picture Experts Group
+Maximum Transmission Unit
+Model-View-Controller
+Network Address Translation
+Network Basic Input/Output System
+Near Field Communication
+Network Interface Card
+Nothing In, Nothing Out
+Network Management System
+Network News Transfer Protocol
+Network Operations Center
+Network Operating System
+Network Service Provider
+New Technology File System
+Network Time Protocol
+Natural User Interface
+Non-Volatile Random Access Memory
+Organization for the Advancement of Structured Information Standards
+Optical Character Recognition
+Open Database Connectivity
+Original Equipment Manufacturer
+Online Analytical Processing
+Object Linking and Embedding
+Organic Light Emitting Diode
+Object-Oriented Programming
+On Screen Display
+Open Shortest Path First
+Over-The-Air
+Over-the-top
+Peer To Peer
+Personal Computer
+Printed Circuit Board
+Peripheral Component Interconnect
+Peripheral Component Interconnect Extended
+Personal Computer Memory Card International Association
+Personal Digital Assistant
+Portable Document Format
+Protocol Data Unit
+Hypertext Preprocessor
+Personal Information Manager
+Power Management Unit
+Portable Network Graphic
+Power over Ethernet
+Passive Optical Network
+Post Office Protocol
+Power On Self Test
+Pay Per Click
+Plastic Pin Grid Array
+Pixels Per Inch
+Pay Per Lead
+Pages Per Minute
+Point to Point Protocol
+Point-to-Point Protocol over Ethernet
+Pay Per Sale
+Point-to-Point Tunneling Protocol
+Parameter Random Access Memory
+Programmable Read-Only Memory
+Personal System/2
+Potentially Unwanted Modification
+Potentially Unwanted Program
+Query By Example
+Redundant Array of Independent Disks
+Random Access Memory
+Relational Database Management System
+Resource Description Framework
+Rambus Dynamic Random Access Memory
+Radio-Frequency Identification
+Red Green Blue
+Routing Information Protocol
+Reduced Instruction Set Computing
+Read-Only Memory
+Remote Procedure Call
+Revenue Per 1,000 Impressions
+RDF Site Summary
+Runtime Environment
+Rich Text Format
+Rational Unified Process
+Software as a Service
+Storage Area Network
+Syntactically Awesome Style Sheets
+Serial Advanced Technology Attachment
+Small Computer System Interface
+Secure Digital
+Software Development Kit
+System Development Lifecycle
+Synchronous Dynamic Random Access Memory
+Software-Defined Storage
+Symmetric Digital Subscriber Line
+Search Engine Optimization
+Search Engine Results Page
+Subscriber Identification Module Card
+Single In-Line Memory Module
+Session Initiation Protocol
+Stock Keeping Unit
+Software License or Service Level Agreement
+Scalable Link Interface
+Self-Monitoring Analysis And Reporting Technology
+Server Message Block
+Social Media Marketing
+Short Message Service
+Simple Mail Transfer Protocol
+Simple Network Management Protocol
+Small Outline Dual In-Line Memory Module
+Service Oriented Architecture
+Simple Object Access Protocol
+System On a Chip
+Sequenced Packet Exchange
+Structured Query Language
+Static Random Access Memory
+Site Reliability Engineering
+Standard Red Green Blue
+Solid State Drive
+Secure Shell
+Service Set Identifier
+Secure Sockets Layer
+Transmission Control Protocol
+Transmission Control Protocol/Internet Protocol
+Thin-Film Transistor
+Tagged Image File Format
+Time To Live
+Toolkit Without An Informative Name
+User Acceptance Testing
+Universal Description Discovery and Integration
+User Datagram Protocol
+Unified Extensible Firmware Interface
+User Generated Content
+Universal Integrated Circuit Card
+Unified Modeling Language
+Universal Naming Convention
+Universal Plug and Play
+Uninterruptible Power Supply
+Uniform Resource Identifier
+Uniform Resource Locator
+Universal Serial Bus
+Unicode Transformation Format
+Universal Windows Platform
+Virtual Channel Identifier
+Very High Bit Rate Digital Subscriber Line
+Visual Display Unit
+Virtual File Allocation Table
+Video Graphics Array
+Virtual Local Area Network
+VESA Local Bus
+Virtual Learning Environment
+Voice Over Internet Protocol
+Virtual Path Identifier
+Virtual Private Network
+Virtual Private Server
+Video Random Access Memory
+Virtual Reality Modeling Language
+World Wide Web Consortium
+Wide Area Information Server
+Windows, Apache, MySQL, and PHP
+Wide Area Network
+Windows Display Driver Model
+Wired Equivalent Privacy
+Windows, Icons, Menus, Pointer
+Windows Internet Name Service
+Wireless Local Area Network
+Wi-Fi Protected Access
+World Wide Web
+What You See Is What You Get
+Extensible Application Markup Language
+Extensible Hypertext Markup Language
+Extensible Markup Language
+Extensible Metadata Platform
+Extensible Style Sheet Language Transformation
+Year 2000
+Zero Insertion Force
