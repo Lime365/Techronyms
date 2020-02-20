@@ -28,4 +28,22 @@ if correct they score and if they don't they loose a life (start with 3?).
 Finished making scoreboard.
 Getting the columns to line up was a challenge.
 
+
+2020-02-19
+Core game finished!
+Game is playable (and super hard)
+
+ToDo Left:
+- Posting to scoreboard doesn't seem to work after the round is finished.
+Also make it so the scoreboard prints after the game is done before you submit your nick.
+Maybe even check the score vs the top 10th entry in the scoreboard, otherwise don't
+submit your run.
+
+- Do some of the printing prettier.
+
+- Develop the admin mode
+
+- When admin mode is implemented so you can add rating on the fly. Future plan
+will be to to scale so easier acronyms gets provided in the beginning and scales to harder.
+
 '''
