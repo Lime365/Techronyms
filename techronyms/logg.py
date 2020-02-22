@@ -43,7 +43,6 @@ submit your run.
 
 - Develop the admin mode
 
-- When admin mode is implemented so you can add rating on the fly. Future plan
-will be to to scale so easier acronyms gets provided in the beginning and scales to harder.
+
 
 '''
