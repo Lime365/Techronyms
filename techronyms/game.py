@@ -180,9 +180,9 @@ def main_menu(admin=False):
             main_menu(admin=True)
         else:
             print("""On your screen you will ge given an acronym used within the tech world. \n
-                    Score points by guessing them correctly, and loose after 3 incorrect guesses. \n
-                    Capitalization does not matter, but spacing does! \n
-                    Good luck. \n""")
+Score points by guessing them correctly, and loose after 3 incorrect guesses. \n
+Capitalization does not matter, but spacing does! \n
+Good luck. \n""")
             main_menu()
     elif choice == 4: #--------------------ADMIN MODE----------------#
         if admin == True:
