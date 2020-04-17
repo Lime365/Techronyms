@@ -2,7 +2,7 @@
 
 A quiz-like game for acronyms used within the world of Tech, IT and possibly Gaming.
 
-run game.py if you want to try the game out, it's super challenging. Just change the file_path variable in game.py so it points to the game directory.
+run game.py if you want to try the game out, it's super challenging. Just change the "database" variable in game.py so it points to the game directory.
 
 The only 2 files you really need is acronyms.db and game.py. The rest was for scraping and setting up the database schema.
 
